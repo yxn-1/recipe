@@ -1,3 +1,4 @@
+Let's begin!
 Ingredients:
 
 - Watermelon
@@ -7,3 +8,5 @@ Ingredients:
 - add optional fruits
 
 Source: https://jamiegeller.com/recipes/watermelon-fruit-soup/
+
+Enjoy my recipe!
