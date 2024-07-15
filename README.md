@@ -5,8 +5,8 @@ Watermelon is currently in season! What better way to cool down in the summer th
 
 Reason to have watermelon soup:
 
-1. Easy to make
-2. Fast to make
+1. ***Easy*** to make
+2. ***Fast*** to make
 3. Can use any ingredients
 
 last line changed locally
