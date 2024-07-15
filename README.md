@@ -9,6 +9,8 @@ Reason to have watermelon soup:
 2. ***Fast*** to make
 3. Can use any ingredients
 
+![Watermelon soup](recipe.jpg)
+
 last line changed locally
 
 ### This is a LOCAL change :)
