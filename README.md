@@ -7,7 +7,7 @@ Reason to have watermelon soup:
 
 1. ***Easy*** to make
 2. ***Fast*** to make
-3. Can use any ingredients
+3. Can use ***any*** ingredients
 
 ![Watermelon soup](recipe.jpg)
 
